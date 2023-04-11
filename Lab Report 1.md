@@ -29,3 +29,7 @@ Step 1: Notice the top-left of VSCode, and click **Terminal** --> **New Terminal
 >Terminal should look like this at an area of your screen within VSCode:
 
 ![image](https://user-images.githubusercontent.com/120772535/231034075-0f01da24-bf92-41bd-99b1-e365696e2cb9.png)
+
+
+Step 2: Type in the terminal and write ` ssh cse15lsp23zz@ieng6.ucsd.edu ` 
+
