@@ -20,3 +20,8 @@ Step 2: Click the blue button, **Download for Windows**. If you are using a devi
 >Once you have VSCode installed, begin to open the application. The screen page should look like this: 
 
 ![image](https://user-images.githubusercontent.com/120772535/231033020-5f5eee43-b4a7-441a-856a-34a598ea5a75.png)
+
+
+## How to Connect Remotely 
+
+Step 1: Notice the top-left of VSCode, and click **Terminal** --> **New Terminal**. Notice you can also click 'Shift + Control + ~'. 
