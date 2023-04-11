@@ -55,4 +55,16 @@ Step 4: Congratulations! You are connected to remotely and your Terminal should 
 
 ![image](https://user-images.githubusercontent.com/120772535/231037467-e8551f71-3e2b-454a-b395-8d0dbb9c2df3.png)
 
+## Running Some Commands
+
+Step 1: Notice command-lines such as `ls`, `cd`, `~`, `ls <directory> `, and `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`. 
+
+Step 2: Try running those commmands within the terminal: 
+> After running the commands, your terminal should look like this: 
+
+![image](https://user-images.githubusercontent.com/120772535/231038431-f13f4892-a633-4e78-bd7b-90f90b621c64.png)
+
+
+
+
 
