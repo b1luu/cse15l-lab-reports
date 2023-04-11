@@ -65,6 +65,11 @@ Step 2: Try running those commmands within the terminal:
 ![image](https://user-images.githubusercontent.com/120772535/231038431-f13f4892-a633-4e78-bd7b-90f90b621c64.png)
 
 
-## You have reached the end of the tutorial. 
+## Conclusion:
+
+You can begin to test around and try various combination of commands, once you are complete with running the commands, the server will close once you exit out of VSCode. Upon relogging, you will need to re-enter your password. 
+
+
+
 
 
