@@ -24,4 +24,4 @@ Step 2: Click the blue button, **Download for Windows**. If you are using a devi
 
 ## How to Connect Remotely 
 
-Step 1: Notice the top-left of VSCode, and click **Terminal** --> **New Terminal**. Notice you can also click 'Shift Control ~'. 
+Step 1: Notice the top-left of VSCode, and click **Terminal** --> **New Terminal**. Notice you can also click `Control + Shift + ~` as a command to create a new terminal. 
