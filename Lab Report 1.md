@@ -19,4 +19,4 @@ Step 2: Click the blue button, **Download for Windows**. If you are using a devi
 
 >Once you have VSCode installed, begin to open the application. The screen page should look like this: 
 
-![image](https://user-images.githubusercontent.com/120772535/231032907-c921dd7e-2b77-4c75-b712-67ce5e0891ad.png)
+![image](https://user-images.githubusercontent.com/120772535/231033020-5f5eee43-b4a7-441a-856a-34a598ea5a75.png)
