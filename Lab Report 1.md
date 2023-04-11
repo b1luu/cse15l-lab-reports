@@ -14,4 +14,9 @@ Step 1: Make sure you have access to the internet, and visit the website link he
 
 ***
 
-Step 2: Click the blue button, **Download for Windows**. If you are using a device that isn't windows, click the arrow and download the platform specific to your device. 
+Step 2: Click the blue button, **Download for Windows**. If you are using a device that isn't windows, click the arrow (down arrow on the blue button) and download the platform specific to your device. 
+
+
+>Once you have VSCode installed, begin to open the application. The screen page should look like this: 
+
+![image](https://user-images.githubusercontent.com/120772535/231032907-c921dd7e-2b77-4c75-b712-67ce5e0891ad.png)
