@@ -8,6 +8,7 @@ How to install VSCode:
 
 Step 1: Make sure you have access to the internet, and visit the website link here: [link](https://code.visualstudio.com/). 
 
-The expected website page to the link should be:
+>The expected website page to the link should be:
 
 ![Image](https://user-images.githubusercontent.com/120772535/231031750-f474c858-1f92-4ab4-b714-0ddf22bc6a24.png)
+
