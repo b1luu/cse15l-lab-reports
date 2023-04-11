@@ -44,6 +44,15 @@ Step 3: Type in the terminal and write ` ssh [Username (paste what you copied pr
 
 Step 3: Once you press *Enter**, you will get a prompt for you to type in your password. Your password should be the password you use to connect to UCSD's Webreg and myTritonLink you created upon enrolling. Please type it in and press **Enter**. 
 
+*Be aware that your typing feedback isn't shown while you are typing the password*
+
 > Your screen should look like this:
 
 ![image](https://user-images.githubusercontent.com/120772535/231037278-12438fb9-f230-41c7-bbf9-358f4612decd.png)
+
+
+Step 4: Congratulations! You are connected to remotely and your Terminal should look like this:
+
+![image](https://user-images.githubusercontent.com/120772535/231037467-e8551f71-3e2b-454a-b395-8d0dbb9c2df3.png)
+
+
