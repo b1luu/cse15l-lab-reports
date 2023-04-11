@@ -40,5 +40,5 @@ Step 3: Type in the terminal and write ` ssh [Username (paste what you copied pr
 
 ![image](https://user-images.githubusercontent.com/120772535/231036552-914fa7c5-4eb1-42dc-b0e1-c583de489cec.png)
 
-*If you are logging in for the first, type `yes` followed by **Enter**  *
+*If you are logging in for the first, type `yes` followed by **Enter***
 
