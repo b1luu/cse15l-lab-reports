@@ -58,6 +58,7 @@ Step 4: Congratulations! You are connected to remotely and your Terminal should 
 ## Running Some Commands
 
 Step 1: Notice command-lines such as `ls`, `cd`, `~`, `ls <directory> `, and `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`. 
+
 *`ls` command is called "List Search" and lists any of the files that are in your current path on a particular file.
 *`cd` is referencing "Change Directory" which allows you to change file path to navigate or exit files in a given path.
 *`~` is referencing user's home directory.
