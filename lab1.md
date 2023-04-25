@@ -36,8 +36,7 @@ Step 2: Locate Your CSE15L Account by clicking the link here: [Link](https://sda
 
 
 Step 3: Type in the terminal and write ` ssh [Username (paste what you copied previously here)] ` + ` @ieng6.ucsd.edu ` followed by pressing **Enter**
-> Your command should look similar to this: 
-Code: ` ssh cs15lsp23zz@ieng6.ucsd.edu ` where zz is used to create a general instance. 
+> Your command should look similar to this: ` ssh cs15lsp23zz@ieng6.ucsd.edu ` where zz is used to create a general instance. 
 
 ![image](https://user-images.githubusercontent.com/120772535/231036552-914fa7c5-4eb1-42dc-b0e1-c583de489cec.png)
 
@@ -59,6 +58,10 @@ Step 4: Congratulations! You are connected to remotely and your Terminal should 
 ## Running Some Commands
 
 Step 1: Notice command-lines such as `ls`, `cd`, `~`, `ls <directory> `, and `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`. 
+`ls` command is called "List Search" and lists any of the files that are in your current path on a particular file.
+`cd` is referencing "Change Directory" which allows you to change file path to navigate or exit files in a given path.
+`~` is referencing user's home directory.
+`ls <directory> ` is a command similar to `ls`, but you can enter a specific file in which the computer can search in that particular file. 
 
 Step 2: Try running those commmands within the terminal: 
 > After running the commands, your terminal should look like this: 
