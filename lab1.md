@@ -35,7 +35,7 @@ Step 1: Notice the top-left of VSCode, and click **Terminal** --> **New Terminal
 Step 2: Locate Your CSE15L Account by clicking the link here: [Link](https://sdacs.ucsd.edu/~icc/index.php). Type in your UCSD username and Student ID. Once you are logged in, under section **Additional Accounts** you will find your CSE15L username and copy the username. 
 
 
-Step 3: Type in the terminal and write ` ssh [Username (paste what you copied previously here)] + @ieng6.ucsd.edu ` followed by pressing **Enter**
+Step 3: Type in the terminal and write ` ssh [Username (paste what you copied previously here)] ` + ` @ieng6.ucsd.edu ` followed by pressing **Enter**
 > Your command should look similar to this: ` ssh cs15lsp23zz@ieng6.ucsd.edu ` where zz is used to create a general instance. 
 
 ![image](https://user-images.githubusercontent.com/120772535/231036552-914fa7c5-4eb1-42dc-b0e1-c583de489cec.png)
