@@ -109,9 +109,6 @@ tools available in our time.
 
 Sources used: [ChatGPT](https://chat.openai.com/)
 ---
-
-
-
 Command 4: `grep -v "specific text" (directory)` 
 
 
