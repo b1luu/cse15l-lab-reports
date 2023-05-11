@@ -1,6 +1,6 @@
 # Lab Report 3: Researching Commands:
 
-Command Focus: grep
+Command Focus: **`grep`**
 
 Command 1: `grep -n "specific string" (directory)`
 
