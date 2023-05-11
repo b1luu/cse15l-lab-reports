@@ -49,7 +49,13 @@ class StringServer {
 ![Screenshot 2023-05-10 182916](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/65c2f6a0-b949-4061-ad66-504b8b8cb3ab)
 
 
-* Test
+* The handleRequest method was called when running /add-message?s=hello
+* The relevant argument is url
+* Values of each field used in method:
+  - field **s** is considered the string variable
+  - field **parameter** is part of the url before splitting the argument
+
+
 
 
 
