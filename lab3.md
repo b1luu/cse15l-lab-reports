@@ -35,10 +35,10 @@ Sources used: [ChatGPT](https://chat.openai.com/)
 Command 2: `grep -r "specific string" (directory)`
 
 *Description:*
-> `gren -r` allows you to search for multiple directories or subdirectories in search for a specific term. The 'r' stands for recursion, and it recursively looks for a particular word and is useful for doing a wide search that pertains to multiple files specificed within a given directory.
+> `grep -r` allows you to search for multiple directories or subdirectories in search for a specific term. The 'r' stands for recursion, and it recursively looks for a particular word and is useful for doing a wide search that pertains to multiple files specificed within a given directory.
 
 **Examples: Using `grep -r `**
 
-Example :
+Example 1:
 
 ```
