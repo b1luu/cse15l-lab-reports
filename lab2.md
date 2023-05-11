@@ -72,8 +72,35 @@ class StringServer {
 
 **Part 2: Debugging Procedure**
 
+Code involved with Lab 3 that we are choosing to debug: `ListExamples.java`
 
+```
+static void reverseInPlace(int[] arr) {
+  for(int i = 0; i<arr.length; i += 1) {
+    arr[i] = arr[arr.length - i - 1];
+  }
+}
+```
 
+Failure Inducing Input:
 
+```
+@Test
+public void testReverse() {
+int[] intList = {10,9,8};
+ArrayExamples.reverseInPlace(intList);
+asseryArrayEquals(new int[] = {8,9,10}, intList);
 
+```
+
+Non-Failing Inducing Input:
+
+```
+@Test
+public void testReverse() {
+int[] intList = {1};
+ArrayExamples.reverseInPlace(intList);
+asseryArrayEquals(new int[] = {1}, intList);
+
+```
 
