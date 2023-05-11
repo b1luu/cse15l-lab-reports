@@ -32,6 +32,7 @@ Example 2: `grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-
 62:mobile home and pays $280 a month to rent the lot.
 
 ```
+
 Sources used: [ChatGPT](https://chat.openai.com/)
 
 
