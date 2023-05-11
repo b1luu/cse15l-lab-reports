@@ -4,21 +4,17 @@ Command Focus: **`grep`**
 
 Command 1: `grep -n "specific string" (directory)`
 
-
 *Description:*
 >`grep -n "specific string" (directory)` in particular is the location via line number of where the specific string is located in that particular file specificed in your chosen directory. This allows you to locate the specific line within the file and easier to navigate to find specifics. 
-
 
 **Examples: Using `grep -n "specific string" (directory)`**
 
 Example 1: `grep -n "money" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Funding_cuts_force.txt`
 ```
-
 [cs15lsp23od@ieng6-203]:Media:257$ grep -n "money" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Funding_cuts_force.txt
 31:The agency also receives a percentage of money from the Interest
 33:percentage of the interest on money in trust accounts to Legal Aid
 ```
-
 Example 2: `grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Rental_rules.txt` 
 
 ```
@@ -33,17 +29,14 @@ Example 2: `grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-
 
 ```
 Sources used: [ChatGPT](https://chat.openai.com/)
----
 
 Command 2: `grep -r "specific string" (directory)`
 
 *Description:*
 > `grep -r "specific string" (directory)` allows you to search for multiple directories or subdirectories in search for a specific term. The 'r' stands for recursion, and it recursively looks for a particular word and is useful for doing a wide search that pertains to multiple files specificed within a given directory.
-
 **Examples: Using `grep -r "specific string" (directory) `**
 
 Example 1: `grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media` 
-
 
 ```
 [cs15lsp23od@ieng6-203]:Media:261$ grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media
@@ -54,10 +47,7 @@ Example 1: `grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsear
 /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Using_Tech_Tools.txt:a hotline list, and so on," she says. She carefully notes the
 
 ```
-
 Example 2: `grep -r "thank" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media` 
-
-
 ```
 [cs15lsp23od@ieng6-203]:Media:262$ grep -r "thank" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media
 /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Assuring_Underprivileged.txt:with which she thanks them for their time.
@@ -69,19 +59,14 @@ Example 2: `grep -r "thank" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch
 /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/families_saved.txt:homes. We are also thankful for the help of the Housing Authority,
 /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/less_legal_aid.txt:Illinois' poor will have less access to free lawyers thanks to a
 ```
-
 Sources used: [ChatGPT](https://chat.openai.com/)
----
 
 Command 3: `grep -E "specific text|other specific text" (directory)` 
-
 
 *Description:*
 >  `grep -E "specific text|other specific text" (directory)` where -E means to *extend* a particular search term or regular expression. The **"|"** symbol is a specifcal character notation that means "or" in regular terms. This is useful for allowing us to complete searches at once and generates efficiency. 
 
-
 **Examples: Using `grep -E "specific text|other specific text" (directory)`**
-
 
 Example 1: `grep -E "legal|aid" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Legal_Aid_Society.txt `
 
@@ -93,9 +78,7 @@ Funding for legal aid preserves community resources and saves
 out of five low-income people requiring legal help in our community
 
 ```
-
 Example 2: `grep -E "tech|tools" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Using_Tech_Tools.txt`
-
 
 ```
 [cs15lsp23od@ieng6-203]:Media:268$ grep -E "tech|tools" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Using_Tech_Tools.txt
@@ -105,10 +88,8 @@ When small firms and solos do use technology to help smaller
 tools available in our time.
 
 ```
-
-
 Sources used: [ChatGPT](https://chat.openai.com/)
----
+
 Command 4: `grep -v "specific text" (directory)` 
 
 
@@ -127,9 +108,7 @@ Example 1: `grep -v "o" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-dat
 that cause," she said.
 
 ```
-
 Example 2: `grep -v "on" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Court_Keeps_Judge_From.txt`
-
 
 ```
 [cs15lsp23od@ieng6-203]:Media:276$ grep -v "on" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Court_Keeps_Judge_From.txt
@@ -148,7 +127,5 @@ overpayments and an insurance company insolvency. Brown and Cole
 courthouse secretaries.
 
 ```
-
-
 Sources used: [ChatGPT](https://chat.openai.com/)
 
