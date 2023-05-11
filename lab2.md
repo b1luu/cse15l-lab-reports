@@ -48,12 +48,26 @@ class StringServer {
 
 ![Screenshot 2023-05-10 182916](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/65c2f6a0-b949-4061-ad66-504b8b8cb3ab)
 
-
-* The handleRequest method was called when running /add-message?s=hello
+*Description*
+* The handleRequest method was called when running `/add-message?s=hello`
 * The relevant argument is url
 * Values of each field used in method:
   - field **s** is considered the string variable
   - field **parameter** is part of the url before splitting the argument
+
+---
+
+![Screenshot 2023-05-10 185125](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/bdd0c673-0742-45ec-994a-d64a9730803d)
+
+*Description*
+* The handleRequest method was called when running `/add-message?s=How are you`
+* The relevant argument is url
+* Values of each field used in method:
+  - field **s** is considered the string variable
+  - field **parameter** is part of the url before splitting the argument
+
+* *NOTE*: In the process of adding the message *How are you*, I wasn't particular sure how to save `/add-message?s=Hello`. As a result, I was just able to get `How are you` instead of the described `Hello` on the first line followed by `How are you` below. 
+
 
 
 
