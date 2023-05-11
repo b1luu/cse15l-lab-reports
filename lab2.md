@@ -4,7 +4,7 @@
 
 Code: StringServer.java implementation:
 
-`import java.io.IOException;
+`import java.io.IOException; `
 import java.net.URI;
 
 class Handler implements URLHandler {
