@@ -3,8 +3,10 @@
 Command Focus: grep
 
 Command 1: grep -n "specific string" (directory)
+>grep -n in particular is a command that indicates where a line is present or, where the line you are trying to specify in the file's line number within the file. This allows you to locate the specific line within the file and easier to navigate to find specifics. 
 
-*Examples: * 
+
+**Examples: Using grep -n **
 
 Example 1: 
 ```
