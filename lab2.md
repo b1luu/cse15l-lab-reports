@@ -130,7 +130,8 @@ Original Code:
 ```
 
 Symptom:
-![Screenshot 2023-05-10 182916](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/3d2e5bf2-9787-4af3-92d7-7aa38c488e13)
+<img width="1423" alt="Screenshot_2023-05-10_at_9 43 33_PM" src="https://github.com/b1luu/cse15l-lab-reports/assets/120772535/d719d91a-f6e8-4733-a51e-1833c05901b3">
+
 
 
 
