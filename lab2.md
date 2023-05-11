@@ -104,3 +104,39 @@ asseryArrayEquals(new int[] = {1}, intList);
 
 ```
 
+
+Fixed Code:
+
+```
+
+static void reverseInPlace(int[] arr) {
+      for(int i = 0; i < arr.length/2; i += 1) {
+        int newArr = arr[i];
+        arr[i] = arr[arr.length - i - 1];
+        arr[arr.length - i - 1] = newArr;
+      }
+    }
+
+```
+
+Original Code:
+
+```
+ static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+```
+
+Symptom:
+
+
+*Description*
+
+
+---
+
+
+
+**Part 3: Final Thoughts and Reflection**
