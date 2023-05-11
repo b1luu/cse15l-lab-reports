@@ -17,7 +17,9 @@ Example 1: `grep -n "money" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch
 31:The agency also receives a percentage of money from the Interest
 33:percentage of the interest on money in trust accounts to Legal Aid
 ```
+
 Example 2: `grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Rental_rules.txt` 
+
 ```
 [cs15lsp23od@ieng6-203]:Media:257$ grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Rental_rules.txt    
 11:None of Iowa's 99 counties regulates upkeep on rental property
@@ -41,6 +43,7 @@ Command 2: `grep -r "specific string" (directory)`
 
 Example 1: `grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media` 
 
+
 ```
 [cs15lsp23od@ieng6-203]:Media:261$ grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media
 /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Coup_Reshapes_Legal_Aid.txt:Iwasaki's careful respect for the Long Beach program and its
@@ -52,6 +55,7 @@ Example 1: `grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsear
 ```
 
 Example 2: `grep -r "thank" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media` 
+
 
 ```
 [cs15lsp23od@ieng6-203]:Media:262$ grep -r "thank" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media
@@ -88,7 +92,9 @@ Funding for legal aid preserves community resources and saves
 out of five low-income people requiring legal help in our community
 
 ```
+
 Example 2: `grep -E "tech|tools" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Using_Tech_Tools.txt`
+
 
 ```
 [cs15lsp23od@ieng6-203]:Media:268$ grep -E "tech|tools" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Using_Tech_Tools.txt
@@ -98,6 +104,7 @@ When small firms and solos do use technology to help smaller
 tools available in our time.
 
 ```
+
 
 Sources used: [ChatGPT](https://chat.openai.com/)
 ---
@@ -122,7 +129,9 @@ Example 1: `grep -v "o" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-dat
 that cause," she said.
 
 ```
+
 Example 2: `grep -v "on" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Court_Keeps_Judge_From.txt`
+
 
 ```
 [cs15lsp23od@ieng6-203]:Media:276$ grep -v "on" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Court_Keeps_Judge_From.txt
@@ -141,6 +150,8 @@ overpayments and an insurance company insolvency. Brown and Cole
 courthouse secretaries.
 
 ```
+
+
 
 Sources used: [ChatGPT](https://chat.openai.com/)
 ---
