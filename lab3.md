@@ -10,14 +10,14 @@ Command 1: `grep -n "specific string" (directory)`
 
 **Examples: Using `grep -n "specific string" (directory)`**
 
-Example 1(1): `grep -n "money" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Funding_cuts_force.txt`
+Example 1: `grep -n "money" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Funding_cuts_force.txt`
 ```
 
 [cs15lsp23od@ieng6-203]:Media:257$ grep -n "money" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Funding_cuts_force.txt
 31:The agency also receives a percentage of money from the Interest
 33:percentage of the interest on money in trust accounts to Legal Aid
 ```
-Example 2(2): `grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Rental_rules.txt` 
+Example 2: `grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Rental_rules.txt` 
 ```
 [cs15lsp23od@ieng6-203]:Media:257$ grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Rental_rules.txt    
 11:None of Iowa's 99 counties regulates upkeep on rental property
@@ -39,7 +39,7 @@ Command 2: `grep -r "specific string" (directory)`
 
 **Examples: Using `grep -r "specific string" (directory) `**
 
-Example 1(3): `grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media` 
+Example 1: `grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media` 
 
 ```
 [cs15lsp23od@ieng6-203]:Media:261$ grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media
@@ -51,7 +51,7 @@ Example 1(3): `grep -r "careful" /home/linux/ieng6/cs15lsp23/cs15lsp23od/strings
 
 ```
 
-Example 2(4): `grep -r "thank" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media` 
+Example 2: `grep -r "thank" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media` 
 
 ```
 [cs15lsp23od@ieng6-203]:Media:262$ grep -r "thank" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media
@@ -78,7 +78,7 @@ Command 3: `grep -E "specific text|other specific text" (directory)`
 **Examples: Using `grep -E "specific text|other specific text" (directory)`**
 
 
-Example 1(5): `grep -E "legal|aid" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Legal_Aid_Society.txt `
+Example 1: `grep -E "legal|aid" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Legal_Aid_Society.txt `
 
 ```
 [cs15lsp23od@ieng6-203]:Media:265$ grep -E "legal|aid" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Legal_Aid_Society.txt 
@@ -88,7 +88,7 @@ Funding for legal aid preserves community resources and saves
 out of five low-income people requiring legal help in our community
 
 ```
-Example 2(6): `grep -E "tech|tools" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Using_Tech_Tools.txt`
+Example 2: `grep -E "tech|tools" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Using_Tech_Tools.txt`
 
 ```
 [cs15lsp23od@ieng6-203]:Media:268$ grep -E "tech|tools" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Using_Tech_Tools.txt
