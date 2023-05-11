@@ -3,6 +3,8 @@
 Command Focus: grep
 
 Command 1: `grep -n "specific string" (directory)`
+
+*Description:*
 >`grep -n` in particular is the location via line number of where the specific string is located in that particular file specificed in your chosen directory. This allows you to locate the specific line within the file and easier to navigate to find specifics. 
 
 
