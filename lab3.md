@@ -27,3 +27,4 @@ Example 2:
 62:mobile home and pays $280 a month to rent the lot.
 
 ```
+Source: [ChatGPT]Source: 
