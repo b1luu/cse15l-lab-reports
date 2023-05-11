@@ -130,16 +130,18 @@ Original Code:
 ```
 
 Symptom:
+
 <img width="1423" alt="Screenshot_2023-05-10_at_9 43 33_PM" src="https://github.com/b1luu/cse15l-lab-reports/assets/120772535/d719d91a-f6e8-4733-a51e-1833c05901b3">
 
 
-
-
 *Description*
-
+We needed to create a dummy variable in order to reverse the list properly. We went through the list twice, so divided the for loop iteration in half fixes the problem as well. This way, we can properly traverse through and get the result of reversing the list as desired.
 
 ---
 
 
 
 **Part 3: Final Thoughts and Reflection**
+
+
+Reflecting through my process of going through Lab 2, I became increasingly aware of understanding the difference between local device and cloud servers. I appreciate the amount of ease developers have made accessing websites, keeping websites secure, and networked smoothly as there is definately a learning curve towards web development and generated curiousity to how links and networking works. 
