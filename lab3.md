@@ -104,3 +104,43 @@ Sources used: [ChatGPT](https://chat.openai.com/)
 
 
 
+Command 4: `grep -v "specific text" (directory)` 
+
+
+*Description:*
+>  `grep -v "specific text" (directory)` is a command where **"-v"** means to negate the word, and print out any of the lines within the file that does not show specific expression. It is also important to realize that it can filter out letters, so we can see data that avoids letters and might be useful for filters. It will not show the specific text and is useful for avoiding words and filtering out data for organization. 
+
+
+**Examples: Using `grep -v "specific text" (directory)` **
+
+
+Example 1: `grep -v "o" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Court_Keeps_Judge_From.txt`
+
+```
+[cs15lsp23od@ieng6-203]:Media:273$ grep -v "o" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Court_Keeps_Judge_From.txt
+
+that cause," she said.
+
+```
+Example 2: `grep -v "on" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Court_Keeps_Judge_From.txt`
+
+```
+[cs15lsp23od@ieng6-203]:Media:276$ grep -v "on" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-data/technical/government/Media/Court_Keeps_Judge_From.txt
+
+
+Court Keeps Judge From Distributing Funds To Legal Aid Groups;
+The Missouri Court of Appeals in St. Louis has blocked a judge's
+legal services for the poor.
+County Circuit Judge Thomas Brown III from distributing the funds
+as early as today.
+court rules.
+unclaimed property fund.
+Services of Eastern Missouri.
+that cause," she said.
+overpayments and an insurance company insolvency. Brown and Cole
+courthouse secretaries.
+
+```
+
+Sources used: [ChatGPT](https://chat.openai.com/)
+---
