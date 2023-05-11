@@ -70,7 +70,11 @@ class StringServer {
 
 ---
 
+
 **Part 2: Debugging Procedure**
+
+
+
 
 Code involved with Lab 3 that we are choosing to debug: `ListExamples.java`
 
@@ -82,7 +86,9 @@ static void reverseInPlace(int[] arr) {
 }
 ```
 
+
 Failure Inducing Input:
+
 
 ```
 @Test
@@ -93,7 +99,9 @@ asseryArrayEquals(new int[] = {8,9,10}, intList);
 
 ```
 
+
 Non-Failing Inducing Input:
+
 
 ```
 @Test
@@ -105,7 +113,9 @@ asseryArrayEquals(new int[] = {1}, intList);
 ```
 
 
+
 Fixed Code:
+
 
 ```
 
@@ -119,7 +129,9 @@ static void reverseInPlace(int[] arr) {
 
 ```
 
+
 Original Code:
+
 
 ```
  static void reverseInPlace(int[] arr) {
@@ -129,15 +141,22 @@ Original Code:
   }
 ```
 
+
 Symptom:
 
 <img width="1423" alt="Screenshot_2023-05-10_at_9 43 33_PM" src="https://github.com/b1luu/cse15l-lab-reports/assets/120772535/d719d91a-f6e8-4733-a51e-1833c05901b3">
+
+
 
 
 *Description*
 We needed to create a dummy variable in order to reverse the list properly. We went through the list twice, so divided the for loop iteration in half fixes the problem as well. This way, we can properly traverse through and get the result of reversing the list as desired.
 
 ---
+
+
+
+
 
 
 
