@@ -37,6 +37,6 @@ class StringServer {
   }
 }`
 
-![image](![Screenshot 2023-05-10 182916](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/cee3798b-ab12-4cce-b526-2c354fcc1bc4)
+![image](![Screenshot 2023-05-10 182916])
 
 
