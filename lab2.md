@@ -66,7 +66,7 @@ class StringServer {
   - field **s** is considered the string variable
   - field **parameter** is part of the url before splitting the argument
 
->**NOTE**: In the process of adding the message *How are you*, I wasn't particular sure how to save `/add-message?s=Hello`. As a result, I was just able to get >`How are you` instead of the described `Hello` on the first line followed by `How are you` below. 
+>**NOTE**: In the process of adding the message *How are you*, I wasn't particular sure how to save `/add-message?s=Hello`. As a result, I was just able to get `How are you` instead of the described `Hello` on the first line followed by `How are you` below. 
 
 ---
 
