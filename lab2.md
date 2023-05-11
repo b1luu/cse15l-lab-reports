@@ -4,7 +4,8 @@
 
 Code: StringServer.java implementation:
 
-`import java.io.IOException; `
+```
+import java.io.IOException;
 import java.net.URI;
 
 class Handler implements URLHandler {
@@ -35,7 +36,9 @@ class StringServer {
     int port = Integer.parseInt(args[0]);
     Server.start(port, new Handler());
   }
-}`
+}
+```
+
 
 ![Screenshot 2023-05-10 182916](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/65c2f6a0-b949-4061-ad66-504b8b8cb3ab)
 
