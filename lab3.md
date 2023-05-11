@@ -68,14 +68,14 @@ Example 2:
 Sources used: [ChatGPT](https://chat.openai.com/)
 ---
 
-Command 3: `grep -E "specific text" | "other specific text" (directory)'
+Command 3: `grep -E "specific text" | "other specific text" (directory)` 
 
 
 *Description:*
-> `grep -E "specific text" | "other specific text" (directory)`
+>  `grep -E "specific text" | "other specific text" (directory)` where -E means to *extend* a particular search term or regular expression. The **"|"** symbol is a specifcal character notation that means "or" in regular terms. This is useful for allowing us to complete searches at once and generates efficiency. 
 
 
-**Examples: Using `grep - `**
+**Examples: Using `grep -E "specific text" | "other specific text" (directory)`**
 
 
 Example 1:
