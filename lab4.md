@@ -75,4 +75,9 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 > Here is an image on what it should look like:
 ![image](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/a8a3c7a5-09dd-4849-9e31-04bfaaf05cfd)
 
+  
+## 7. Fix Code Failure:
+
+* In order to fix the code, we need to access vim in order to edit the bug.
+* 
 
