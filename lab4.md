@@ -54,7 +54,8 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 ![image](https://user-images.githubusercontent.com/120772535/231037278-12438fb9-f230-41c7-bbf9-358f4612decd.png)
 
   
-> Confirmation example on how it looks to be logged in. ![image](https://user-images.githubusercontent.com/120772535/231037467-e8551f71-3e2b-454a-b395-8d0dbb9c2df3.png)
+> Confirmation example on how it looks to be logged in. 
+![image](https://user-images.githubusercontent.com/120772535/231037467-e8551f71-3e2b-454a-b395-8d0dbb9c2df3.png)
 
 ## 5. Cloning repository from Github account
 
