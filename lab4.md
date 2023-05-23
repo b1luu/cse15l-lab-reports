@@ -97,9 +97,9 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 
 ## 9. Commit and Push
 
-*After the test has worked and have passed, you will need to commit and push the edited file to Github. In order to do so, we need to type the command `git add ListExamples.java` followed by `<Enter>`. 
-*Next, we need to commit the file by typing `git commit -m "(any message you like)"` followed by `<Enter>`.
-*Finally, we need to push it back to Github by typing `Git push` followed by `<Enter>`. 
+* After the test has worked and have passed, you will need to commit and push the edited file to Github. In order to do so, we need to type the command `git add ListExamples.java` followed by `<Enter>`. 
+* Next, we need to commit the file by typing `git commit -m "(any message you like)"` followed by `<Enter>`.
+* Finally, we need to push it back to Github by typing `Git push` followed by `<Enter>`. 
 >The terminal you are accessing should look like this: 
 ![Screenshot 2023-05-22 211158](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/61836265-76a1-4c2b-9030-0909a4c067f6)
 
