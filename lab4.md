@@ -86,9 +86,10 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 * The error can be access by going downward in line #36, we need to do this by using the `<J>` keystroke, which is used in vim to go down a single line. We need to press this 36 times. In addition, you can use arrow keys while in insert mode, go you can use `<right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><right-arrow-key><backspace><2>`.
 * To exit, we need to press `<escape>` and then followed by `<:wq!>`.
 ![Screenshot 2023-05-22 204824](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/fb856bb0-82d2-442c-862d-a328e964abd8)
+
   
 ## 8. Demonstrating Code Success:
-  
+
 ![Screenshot 2023-05-22 204824](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/19118f38-f462-4b6d-a8a9-cedaf149ed21)
 
 * In reference to the [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) website, highlight the compiler in order to run the test, `<Control-C><Control-V>' on 'javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` followed by `<Enter>`. This will compile ExamplesListTests.java and create a class file.
