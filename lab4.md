@@ -11,3 +11,4 @@ Steps:
 
 Steps:
 * Since [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) isn't in your repository, you need to fork the repository [here](https://github.com/ucsd-cse15l-s23/lab7). 
+* Forking [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) is availble in the top-right of the screen, and press `commit.`
