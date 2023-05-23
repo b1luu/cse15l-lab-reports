@@ -27,7 +27,11 @@ Steps:
 >The expected website page to the link should be:
 
 ![Image](https://user-images.githubusercontent.com/120772535/231031750-f474c858-1f92-4ab4-b714-0ddf22bc6a24.png)
+* Click the blue button, **Download for Windows**. If you are using a device that isn't windows, click the arrow (down arrow on the blue button) and download the platform specific to your device. 
 
+>Once you have VSCode installed, begin to open the application. The screen page should look like this: 
+
+![image](https://user-images.githubusercontent.com/120772535/231033020-5f5eee43-b4a7-441a-856a-34a598ea5a75.png)
 
 * After having your terminal open, we want to type `shh cs15sp23XX@ieng6.ucsd.edu`. Notice: XX is only used for reference of this username format, each username is different and for that we advise you know your specific username in order to log into ieng6. 
 
