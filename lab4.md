@@ -78,6 +78,8 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
   
 ## 7. Fix Code Failure:
 
-* In order to fix the code, we need to access vim in order to edit the bug.
-* 
+* In order to fix the code, we need to access vim in order to edit the bug. Begin by typing `vim ListExamples.java`.
+>The terminal should look like this:
+![Screenshot 2023-05-22 204508](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/3727ddd2-ba83-43b0-9f92-198d8d393b16)
+
 
