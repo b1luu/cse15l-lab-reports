@@ -91,4 +91,5 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
   
 ![Screenshot 2023-05-22 204824](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/19118f38-f462-4b6d-a8a9-cedaf149ed21)
 
-
+* In reference to the [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) website, highlight the compiler in order to run the test, `<Control-C><Control-V>' on 'javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` followed by `<Enter>`. This will compile ExamplesListTests.java and create a class file.
+*Then `<Control-C><Control-V>' on `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...`
