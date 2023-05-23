@@ -82,4 +82,7 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 >The terminal should look like this:
 ![Screenshot 2023-05-22 204508](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/3727ddd2-ba83-43b0-9f92-198d8d393b16)
 
-
+* When accessed to this screen, we are in vim's normal mode, which doesn't allow direct typing editing access. In order to do so, we need to press `<I>` to switch to insert mode, an alternative, editing access mode.
+* The error can be access by going downward in line #36, we need to do this by using the `<J>` keystroke, which is used in vim to go down a single line. We need to press this 36 times. In addition, you can use arrow keys while in insert mode, go you can use `<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<right-arrow-key>'`<backspace>'`<2>'.
+* To exit, we need to press `<escape>` and then followed by `<:wq!>`.
+![Screenshot 2023-05-22 204824](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/fb856bb0-82d2-442c-862d-a328e964abd8)
