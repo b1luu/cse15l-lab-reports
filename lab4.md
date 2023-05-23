@@ -87,8 +87,6 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 * To exit, we need to press `<escape>` and then followed by `<:wq!>`.
 ![Screenshot 2023-05-22 204824](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/fb856bb0-82d2-442c-862d-a328e964abd8)
 
-  
-  
 
 ## 8. Demonstrating Code Success:
 
