@@ -42,7 +42,7 @@ Notice the top-left of VSCode, and click **Terminal** --> **New Terminal**. Noti
 * After having your terminal open, we want to type `shh cs15sp23XX@ieng6.ucsd.edu + <Enter>`. Notice: XX is only used for reference of this username format, each username is different and for that we advise you know your specific username in order to log into ieng6. 
 >If you are having trouble locating your account; you can locate your CSE15L Account by clicking the link here: [Link](https://sdacs.ucsd.edu/~icc/index.php). Type in your UCSD username and Student ID. Once you are logged in, under section **Additional Accounts** you will find your CSE15L username and copy the username. 
 
-Once you press *Enter**, you will get a prompt for you to type in your password. Your password should be the password you use to connect to UCSD's Webreg and myTritonLink you created upon enrolling. Please type it in and press **Enter**. 
+Once you press <Enter>, you will get a prompt for you to type in your password. Your password should be the password you use to connect to UCSD's Webreg and myTritonLink you created upon enrolling. Please type it in and press <Enter>. 
 
 *Be aware that typing feedback isn't shown while you are typing the password*
 
@@ -50,8 +50,8 @@ Once you press *Enter**, you will get a prompt for you to type in your password.
 
 ![image](https://user-images.githubusercontent.com/120772535/231037278-12438fb9-f230-41c7-bbf9-358f4612decd.png)
 
-
-Step 4: Congratulations! You are connected to remotely and your Terminal should look like this:
-
+> Confirmation example on how it looks to be logged in.
 ![image](https://user-images.githubusercontent.com/120772535/231037467-e8551f71-3e2b-454a-b395-8d0dbb9c2df3.png)
+
+## 5. Cloning repository from Github account
 
