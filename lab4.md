@@ -39,7 +39,7 @@ Notice the top-left of VSCode, and click **Terminal** --> **New Terminal**. Noti
 
 ![image](https://user-images.githubusercontent.com/120772535/231034075-0f01da24-bf92-41bd-99b1-e365696e2cb9.png)
 
-* After having your terminal open, we want to type `shh cs15sp23XX@ieng6.ucsd.edu`. Notice: XX is only used for reference of this username format, each username is different and for that we advise you know your specific username in order to log into ieng6. 
+* After having your terminal open, we want to type `shh cs15sp23XX@ieng6.ucsd.edu + <Enter>`. Notice: XX is only used for reference of this username format, each username is different and for that we advise you know your specific username in order to log into ieng6. 
 >If you are having trouble locating your account; you can locate your CSE15L Account by clicking the link here: [Link](https://sdacs.ucsd.edu/~icc/index.php). Type in your UCSD username and Student ID. Once you are logged in, under section **Additional Accounts** you will find your CSE15L username and copy the username. 
 
 
