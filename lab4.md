@@ -89,7 +89,20 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 
 
 ## 8. Demonstrating Code Success:
-![IMG_9348](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/1aacf533-2418-456d-83a4-c193aef18c9b)
 
 * In reference to the [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) website, highlight the compiler in order to run the test, `<Control-C><Control-V>' on 'javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` followed by `<Enter>`. This will compile ExamplesListTests.java and create a class file.
-*Then `<Control-C><Control-V>' on `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...`
+*Then `<Control-C><Control-V>' on `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...` followed by `<Enter>`.
+>On the bottom of the command after running `ListExamples.java`, instead of the failure message, it should pop up 2 tests passing.
+![IMG_9348](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/1aacf533-2418-456d-83a4-c193aef18c9b)
+
+## 9. Commit and Push
+
+*After the test has worked and have passed, you will need to commit and push the edited file to Github. In order to do so, we need to type the command `git add ListExamples.java` followed by `<Enter>`. 
+*Next, we need to commit the file by typing `git commit -m "(any message you like)"` followed by `<Enter>`.
+*Finally, we need to push it back to Github by typing `Git push` followed by `<Enter>`. 
+>The terminal you are accessing should look like this: 
+![Screenshot 2023-05-22 211158](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/61836265-76a1-4c2b-9030-0909a4c067f6)
+
+
+
+
