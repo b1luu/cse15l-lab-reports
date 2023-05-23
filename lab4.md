@@ -23,6 +23,12 @@ Steps:
 
 Steps:
 * Either the choice of an IDE such as VSCode or direct terminal such as Command Prompt on Windows can access ieng6 login via terminal.
+- To access the terminal on VSCode, you can download the IDE [here](https://code.visualstudio.com/download) if you dont have the application downloaded and wish to use it as your terminal. 
+>The expected website page to the link should be:
+
+![Image](https://user-images.githubusercontent.com/120772535/231031750-f474c858-1f92-4ab4-b714-0ddf22bc6a24.png)
+
+
 * After having your terminal open, we want to type `shh cs15sp23XX@ieng6.ucsd.edu`. Notice: XX is only used for reference of this username format, each username is different and for that we advise you know your specific username in order to log into ieng6. 
 
 
