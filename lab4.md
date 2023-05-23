@@ -23,7 +23,7 @@ Steps:
 
 Steps:
 * Either the choice of an IDE such as VSCode or direct terminal such as Command Prompt on Windows can access ieng6 login via terminal.
-- To access the terminal on VSCode, you can download the IDE [here](https://code.visualstudio.com/download) if you dont have the application downloaded and wish to use it as your terminal. 
+- To access the terminal on VSCode, you can download the IDE [here](https://code.visualstudio.com/download) + <enter> if you dont have the application downloaded and wish to use it as your terminal. 
 >The expected website page to the link should be:
 
 ![Image](https://user-images.githubusercontent.com/120772535/231031750-f474c858-1f92-4ab4-b714-0ddf22bc6a24.png)
@@ -33,7 +33,7 @@ Steps:
 
 ![image](https://user-images.githubusercontent.com/120772535/231033020-5f5eee43-b4a7-441a-856a-34a598ea5a75.png)
 
-Notice the top-left of VSCode, and click **Terminal** --> **New Terminal**. Notice you can also click `Control + Shift + ~` as a command to create a new terminal. 
+Notice the top-left of VSCode, and click **Terminal** --> **New Terminal**. Notice you can also click `Control + Shift + ~ + <Enter>` as a command to create a new terminal. 
 
 >Terminal should look like this at an area of your screen within VSCode:
 
