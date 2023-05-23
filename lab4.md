@@ -59,4 +59,9 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 ![image](https://user-images.githubusercontent.com/120772535/231037467-e8551f71-3e2b-454a-b395-8d0dbb9c2df3.png)
 
 ## 5. Cloning repository from Github account
+  
+* In the terminal, type `git clone https://github.com/ucsd-cse15l-s23/lab7` + <Enter> 
+
+![Screenshot 2023-05-22 200017](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/0cc965c1-88a6-4b90-883b-87678757634d)
+
 
