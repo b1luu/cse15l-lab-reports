@@ -64,7 +64,15 @@ Once you press <Enter>, you will get a prompt for you to type in your password. 
 
 ![Screenshot 2023-05-22 200017](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/0cc965c1-88a6-4b90-883b-87678757634d)
 
+  
+## Demonstrating Test Failure: 
 * After cloning, we need to access to lab7 directory, you can do this by typing `cd lab7/ + <Enter>`
 
 ![Screenshot 2023-05-22 200536](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/2ff1e49e-e2f0-463e-af77-2d53eaa6982b)
+  
+* Use `pwd` to check that you are in the correct directory followed by pressing `<Enter>`. 
+* After pressing `pwd`, in order to run the test, type `bash test.sh` in order to run the test ListExamples.java followed by `<Enter>`.
+> Here is an image on what it should look like:
+![image](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/a8a3c7a5-09dd-4849-9e31-04bfaaf05cfd)
+
 
