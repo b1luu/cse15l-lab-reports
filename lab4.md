@@ -33,6 +33,12 @@ Steps:
 
 ![image](https://user-images.githubusercontent.com/120772535/231033020-5f5eee43-b4a7-441a-856a-34a598ea5a75.png)
 
+Notice the top-left of VSCode, and click **Terminal** --> **New Terminal**. Notice you can also click `Control + Shift + ~` as a command to create a new terminal. 
+
+>Terminal should look like this at an area of your screen within VSCode:
+
+![image](https://user-images.githubusercontent.com/120772535/231034075-0f01da24-bf92-41bd-99b1-e365696e2cb9.png)
+
 * After having your terminal open, we want to type `shh cs15sp23XX@ieng6.ucsd.edu`. Notice: XX is only used for reference of this username format, each username is different and for that we advise you know your specific username in order to log into ieng6. 
 
 
