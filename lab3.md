@@ -81,7 +81,9 @@ Prompt given: Is there a grep command that allows you to search for a term in mu
 
 ChatGPT's Response:
 
-![Screenshot 2023-05-23 230857](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/873d2e00-2189-45a5-a65b-5690cdd295ea)
+![Screenshot 2023-05-23 231329](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/f86a7a21-2a1c-4873-a1b5-2db84b300926)
+
+
 
 
 
