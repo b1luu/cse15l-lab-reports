@@ -81,7 +81,7 @@ Prompt given: Is there a grep command that allows you to search for a term in mu
 
 ChatGPT's Response:
 
-![Screenshot 2023-05-23 231329](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/f86a7a21-2a1c-4873-a1b5-2db84b300926)
+![Screenshot 2023-05-23 230857](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/e8001e4f-63f4-4d76-a9ad-21915d5cb463)
 
 
 
@@ -124,7 +124,8 @@ Prompt Given: Is there a grep command that allows you to search for two terms at
 
 ChatGPT's Response: 
 
-![Screenshot 2023-05-23 230857](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/e8001e4f-63f4-4d76-a9ad-21915d5cb463)
+![Screenshot 2023-05-23 231329](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/f86a7a21-2a1c-4873-a1b5-2db84b300926)
+
 
 Command 4: `grep -v "specific text" (directory)` 
 
