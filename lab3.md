@@ -79,7 +79,7 @@ Sources used: [ChatGPT](https://chat.openai.com/)
 
 Prompt given: Is there a grep command that allows you to search for a term in multiple directories? 
 
-ChatGPT's Reponse
+ChatGPT's Response:
 
 ![Screenshot 2023-05-23 230857](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/873d2e00-2189-45a5-a65b-5690cdd295ea)
 
@@ -118,6 +118,11 @@ tools available in our time.
 
 Sources used: [ChatGPT](https://chat.openai.com/)
 
+Prompt Given: Is there a grep command that allows you to search for two terms at once?
+
+ChatGPT's Response: 
+
+![Screenshot 2023-05-23 230857](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/e8001e4f-63f4-4d76-a9ad-21915d5cb463)
 
 Command 4: `grep -v "specific text" (directory)` 
 
