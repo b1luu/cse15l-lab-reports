@@ -168,3 +168,10 @@ courthouse secretaries.
 ```
 Sources used: [ChatGPT](https://chat.openai.com/)
 
+Prompt Given: What about grep command to avoid terms?
+
+ChatGPT's Response:
+
+![Screenshot 2023-05-23 231520](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/4c442670-a97f-4d27-8558-ced30921b5b1)
+
+
