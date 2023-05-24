@@ -79,7 +79,8 @@ Sources used: [ChatGPT](https://chat.openai.com/)
 
 Prompt given: Is there a grep command that allows you to search for a term in multiple directories? 
 
-ChatGPT's Response:
+ChatGPT's Reponse
+
 ![Screenshot 2023-05-23 230857](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/873d2e00-2189-45a5-a65b-5690cdd295ea)
 
 
