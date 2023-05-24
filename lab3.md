@@ -34,6 +34,10 @@ Example 2: `grep -n "rent" /home/linux/ieng6/cs15lsp23/cs15lsp23od/stringsearch-
 ```
 
 Sources used: [ChatGPT](https://chat.openai.com/)
+Prompt given: Is there a grep command to access a particular line number to locate text within a file? and Would grep -n work? 
+Response: 
+![Screenshot 2023-05-23 230509](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/dc261791-6332-415b-b5a6-fba36d44e139)
+![Screenshot 2023-05-23 230559](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/dec2df40-8f1f-4219-90ab-e44ea0940c5a)
 
 
 Command 2: `grep -r "specific string" (directory)`
