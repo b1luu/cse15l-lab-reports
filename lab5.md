@@ -2,7 +2,7 @@
 
 ## Part 1: Debugging Scenario
 
-### Post: 
+### Student Post: 
 
 **What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
 
