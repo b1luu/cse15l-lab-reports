@@ -6,6 +6,7 @@
 
 **What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
 
+I am using Windows 10 as my operating system, VSCode for my editor, and google chrome as my browser. 
 
 
 **Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
