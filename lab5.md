@@ -88,6 +88,19 @@ What is causing this error and what syntax would be needing correction to create
 
 ## TA Response:
 
-Response: Java files and program implementation is good--interesting. There seems to be a bug in line #3 in terms of syntax error. If we look at the `If` conditional, shell's `&` conditional is normally represented as `&&` instead of singleton `&`. Also, shell also has `[[` / `]]` grouping specific terms which is different from other languages. Try fixing the syntax for grouping, spacing, and & and run the command `bash NeedHelp.sh`.
+Response:
+
+ Java files and program implementation is good--interesting. There seems to be a bug in line #3 in terms of syntax error. If we look at the `If` conditional, shell's `&` conditional is normally represented as `&&` instead of singleton `&`. Also, shell also has `[[` / `]]` grouping specific terms which is different from other languages. Try fixing the syntax for grouping, spacing, and & and run the command `bash NeedHelp.sh`.
+
+
+## Student Response After Hearing Feedback on TA:
+
+Response:
+
+Thank you. I have updated the code and have noticed the grouping error. However, I am stil getting an error and I am unsure if it is regarding syntax or not. Here is a screenshot of my code with the output respectively.
+
+> Code from `NeedHelp.sh` after receiving feedback:
+
+![Screenshot 2023-06-05 193325](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/3c578881-ceb1-4316-8cdb-f52186634f31)
 
 
