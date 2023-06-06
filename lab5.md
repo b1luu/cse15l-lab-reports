@@ -20,3 +20,8 @@ I believe I am correct because there are no logistic errors in my program, but t
 
 ### **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
 
+Context:
+
+>Directory of my program: 
+
+![Screenshot 2023-06-05 185721](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/cebec08c-b1f6-4b35-9e23-88c07ff4d893)
