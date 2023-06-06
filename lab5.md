@@ -57,4 +57,7 @@ fi
 
 ```
 
+What is causing this error and what syntax would be needing correction to create a correct implementation?
 
+
+## TA Response:
