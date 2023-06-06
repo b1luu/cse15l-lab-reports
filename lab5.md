@@ -90,7 +90,7 @@ What is causing this error and what syntax would be needing correction to create
 
 Response:
 
- Java files and program implementation is good--interesting. There seems to be a bug in line #3 in terms of syntax error. If we look at the `If` conditional, shell's `&` conditional is normally represented as `&&` instead of singleton `&`. Also, shell also has `[[` / `]]` grouping specific terms which is different from other languages. Try fixing the syntax for grouping, spacing, and & and run the command `bash NeedHelp.sh`. Here is also a link that provides syntax regarding shell [here](https://www.geeksforgeeks.org/conditional-statements-shell-script/#) Hope this helps! 
+ Java files and program implementation is good--interesting. There seems to be a bug in line #3 in terms of syntax error. If we look at the `If` conditional, shell's `&` conditional is normally represented as `&&` instead of singleton `&`. Also, shell also has `[[` / `]]` grouping specific terms which is different from other languages. Try fixing the syntax for grouping, spacing, and & and run the command `bash NeedHelp.sh`. Here is also a link that provides syntax regarding shell [here](https://www.geeksforgeeks.org/conditional-statements-shell-script/#). Hope this helps! 
 
 
 ## Student Response After Hearing Feedback on TA:
