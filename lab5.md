@@ -10,6 +10,18 @@ I am using Windows 10 as my operating system, VSCode for my editor, and google c
 
 
 ### **Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
+Code Being Addressed:
+
+```
+VAR=1
+
+if [[ 1 -eq $VAR & 100 -ne $VAR ]]
+then
+  echo "1"
+else
+  echo "0"
+fi
+```
 
 In the file **NeedHelp.sh**, I tried to run the command `bash NeedHelp.sh`. I expected to get 1, but got an error here:
 > The error can be seen here:
@@ -33,13 +45,16 @@ As a preface, I made sure I was in the correct directory, made sure my terminal 
 
 > Code that caused the failure-inducing output:
 
-`VAR=1
+```
+VAR=1
 
 if [[ 1 -eq $VAR]]
 then
   echo "1"
 else
   echo "0"
-fi`
+fi
+
+```
 
 
