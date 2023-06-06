@@ -179,6 +179,10 @@ else
 fi
 
 ```
+Command to trigger the bug: `bash NeedHelp.sh`
 
+How to fix the bug:
+
+In order to fix the bug, you need to edit line 3 of the file `NeedHelp.sh`. More specifically, you need to add spaces between the brackets to make sure there aren't any spacing specific syntax error. Next, you need to add brackets where `[[ -f "$filename" ]]` and `[[ $? -eq 0 ]]` are in different groups instead of these conditionals within the if statement being surrounded by two enclosed brackets. This notation is specific and fixed using the source [here](https://www.geeksforgeeks.org/conditional-statements-shell-script/#).
 
 
