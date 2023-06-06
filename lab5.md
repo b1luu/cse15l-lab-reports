@@ -27,6 +27,19 @@ Context:
 ![Screenshot 2023-06-05 185721](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/cebec08c-b1f6-4b35-9e23-88c07ff4d893)
 
 As a preface, I made sure I was in the correct directory, made sure my terminal default was bash. My last commands were without the `&` conditional, but I still got an error and I will provide it below:
->Error without `&` in conditional:
+>Error without `&` in conditional output: 
 
 ![Screenshot 2023-06-05 190625](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/33f0a275-e9e0-4caf-bfc2-67ec006c149d)
+
+> Code that caused the failure-inducing output:
+
+`VAR=1
+
+if [[ 1 -eq $VAR]]
+then
+  echo "1"
+else
+  echo "0"
+fi`
+
+
