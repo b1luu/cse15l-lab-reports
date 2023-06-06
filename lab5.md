@@ -99,8 +99,21 @@ Response:
 
 Thank you. I have updated the code and have noticed the grouping error. I understand that the original error was that line 3 needed to have `]]` and `[[` between the `&` respectively. This is how shell's syntax is made when using `if` conditionals. 
 
+>Correct Output:
 
+![Screenshot 2023-06-05 194444](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/7d32e9fc-e140-4548-9d01-8d1bb2b40343)
 
+>Code with correct output:
+
+filename="Calculator.java"
+```
+if [[ -f "$filename" ]]  && [[ $? -eq 0 ]]
+then
+  echo "File exists, yay!"
+else
+  echo "The file does not exist :("
+fi
+```
 
 
 
