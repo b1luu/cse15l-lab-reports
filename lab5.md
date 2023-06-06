@@ -73,15 +73,14 @@ As a preface, I made sure I was in the correct directory, made sure my terminal 
 > Code that caused the failure-inducing output:
 
 ```
-VAR=1
+filename="Calculator.java"
 
-if [[ 1 -eq $VAR]]
+if [[ -f "$filename"]]
 then
-  echo "1"
+  echo "File exists, yay!"
 else
-  echo "0"
+  echo "The file does not exist :("
 fi
-
 ```
 
 What is causing this error and what syntax would be needing correction to create a correct implementation?
