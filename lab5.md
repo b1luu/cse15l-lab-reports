@@ -185,4 +185,8 @@ How to fix the bug:
 
 In order to fix the bug, you need to edit line 3 of the file `NeedHelp.sh`. More specifically, you need to add spaces between the brackets to make sure there aren't any spacing specific syntax error. Next, you need to add brackets where `[[ -f "$filename" ]]` and `[[ $? -eq 0 ]]` are in different groups instead of these conditionals within the if statement being surrounded by two enclosed brackets. This notation is specific and fixed using the source [here](https://www.geeksforgeeks.org/conditional-statements-shell-script/#).
 
+## Part 2: Reflection
+
+Throughout being a part of this class, as part of the second half of the quarter, I definately found bash scripts very interesting. Seeing how the autograder works definately creates an open eye of possibilites on how code is implemented into my daily life. I also think the commands are very applied towards the career aspect of software, which I am very grateful for participating and being able to take this class. This is my first lab at UCSD, and I think it'll be a one to remember as I loved collaborating with others in code and how non-independent it is compared to my other CSE classes. I think I will be using grep, pwd, ls, cd a ton throughout my journey to tech. It is very hard to talk to others in my other CSE classes, but I realized how friendly everyone is from lab.
+
 
