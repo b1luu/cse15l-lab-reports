@@ -10,17 +10,44 @@ I am using Windows 10 as my operating system, VSCode for my editor, and google c
 
 
 ### **Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
+
+Java files: `Calculator.java` and `Main.java` in order to run.
+
+`Calculator.java`:
+```
+public class Calculator {
+
+    public int addNumbers(int num1, int num2) {
+        return num1 + num2;
+    }
+
+
+}
+```
+`Main.java`:
+```
+public class Main {
+
+    public static void main(String[] args) {
+        Calculator calculator = new Calculator();
+        int result = calculator.addNumbers(5, 7);
+        System.out.println("The sum is: " + result);
+    }
+}
+```
+
 Code Being Addressed: `NeedHelp.sh`
 
 ```
-VAR=1
+filename="Calculator.java"
 
-if [[ 1 -eq $VAR & 100 -ne $VAR ]]
+if [[ -f "$filename"  &  $? -eq 0 ]]
 then
-  echo "1"
+  echo "File exists, yay!"
 else
-  echo "0"
+  echo "The file does not exist :("
 fi
+
 ```
 
 In the file **NeedHelp.sh**, I tried to run the command `bash NeedHelp.sh`. I expected to get 1, but got an error here:
