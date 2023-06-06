@@ -4,7 +4,7 @@
 
 ### Student Post: 
 
-**What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
+### **What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
 
 I am using Windows 10 as my operating system, VSCode for my editor, and google chrome as my browser. 
 
