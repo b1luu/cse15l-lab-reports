@@ -115,5 +115,70 @@ else
 fi
 ```
 
+End Information (Part 1 #3):
+
+File directory:
+
+![Screenshot 2023-06-05 194821](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/d0952a20-d16a-4009-b2c4-3a529fab833b)
+
+Contents of each file before fixing the bug:
+
+* `Calculator.java` is a java file that contains a method that returns the sum of two integers given as the method's parameters. 
+> `Calculator.java` code:
+
+```
+public class Calculator {
+
+    public int addNumbers(int num1, int num2) {
+        return num1 + num2;
+    }
+
+
+}
+```
+
+* `Main.java` is the java file that runs `Calculator.java` method and prints the sum.
+> `Main.java` code:
+
+```
+public class Main {
+
+    public static void main(String[] args) {
+        Calculator calculator = new Calculator();
+        int result = calculator.addNumbers(5, 7);
+        System.out.println("The sum is: " + result);
+    }
+}
+```
+
+* `NeedHelp.sh` is the shell command that checks if the file `Calculator.java` exists and includes the bug that we are going to fix in this lab report.
+
+> `NeedHelp.sh` code (before):
+
+```
+filename="Calculator.java"
+
+if [[ -f "$filename" & $? -eq 0 ]]
+then
+  echo "File exists, yay!"
+else
+  echo "The file does not exist :("
+fi
+```
+
+> `NeedHelp.sh` code (after):
+
+```
+filename="Calculator.java"
+
+if [[ -f "$filename" ]]  && [[ $? -eq 0 ]]
+then
+  echo "File exists, yay!"
+else
+  echo "The file does not exist :("
+fi
+
+```
+
 
 
