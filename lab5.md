@@ -88,6 +88,6 @@ What is causing this error and what syntax would be needing correction to create
 
 ## TA Response:
 
-Response: Interesting. There seems to be a bug in line #3 in terms of syntax error. If we look at the `If` conditional, shell's `&` conditional is normally represented as `&&` firstly. Shell also has `[[` / `]]` grouping specific terms which is different from other languages. Try fixing the syntax for grouping, spacing, and & and run the command `bash NeedHelp.sh`.
+Response: Interesting. There seems to be a bug in line #3 in terms of syntax error. If we look at the `If` conditional, shell's `&` conditional is normally represented as `&&` instead of singleton `&`. Also, shell also has `[[` / `]]` grouping specific terms which is different from other languages. Try fixing the syntax for grouping, spacing, and & and run the command `bash NeedHelp.sh`.
 
 
