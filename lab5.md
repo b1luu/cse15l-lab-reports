@@ -10,7 +10,7 @@ I am using Windows 10 as my operating system, VSCode for my editor, and google c
 
 
 ### **Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
-Code Being Addressed:
+Code Being Addressed: `NeedHelp.sh`
 
 ```
 VAR=1
