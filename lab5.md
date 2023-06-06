@@ -13,9 +13,10 @@ I am using Windows 10 as my operating system, VSCode for my editor, and google c
 
 In the file **NeedHelp.sh**, I tried to run the command `bash NeedHelp.sh`. I expected to get 1, but got an error here:
 > The error can be seen here:
+
 ![Screenshot 2023-06-05 185721](https://github.com/b1luu/cse15l-lab-reports/assets/120772535/1e5a6c6f-56e8-4fe3-b397-898c2a73ca0a)
 
-
+I believe I am correct because there are no syntax or logistic errors in my program, which makes it tricky for me to debug.
 
 ### **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
 
